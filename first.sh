@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hallo from jenkins-repo"
+echo "hallo from jenkins-repo second-commit"
