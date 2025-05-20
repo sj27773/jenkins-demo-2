@@ -1,3 +1,5 @@
 #!/bin/bash
 echo "hallo from jenkins-repo"
-date
+sudo apt install nginx
+systemctl start nginx
+systemctl enable nginx
